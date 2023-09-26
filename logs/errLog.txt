@@ -1,0 +1,1 @@
+20230926	14:53:14	fefa0bef-64f3-4fd2-a343-e99b8650a8ed	Error: ENOENT: no such file or directory, stat 'C:\hank\Web\NodeCourse\views\subdir\test.html'
