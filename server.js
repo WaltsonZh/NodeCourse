@@ -16,7 +16,6 @@ app.use(logger)
 
 // handle options credentials check - BEFORE CORS
 app.use(credentials)
-
 app.use(cors(corsOptions))
 
 // built-in middleware to handle urlencoded data

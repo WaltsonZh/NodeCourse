@@ -1,0 +1,2 @@
+20230927	15:13:37	c88f8cc6-6ecc-48a3-8c94-97daed25db4d	TypeError: authHeader?.starstWith is not a function
+20230927	19:55:47	4d3b229a-7cb5-4dbd-950b-30c1b5f9f2e5	SyntaxError: Unexpected token B in JSON at position 0
